@@ -61,10 +61,6 @@ module.exports = {
         }
       ]
     },
-    "router": {
-      "type": "confirm",
-      "message": "Install vue-router?"
-    },
     "unit": {
       "type": "confirm",
       "message": "Setup unit tests with Karma + Mocha?"
