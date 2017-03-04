@@ -73,7 +73,7 @@ module.exports = {
   "filters": {
     ".eslintrc.js": "lint",
     ".eslintignore": "lint",
-    "config/test.env.js": "false || false",
+    "config/test.env.js": "false || false ",
     "test/unit/**/*": "false",
     "build/webpack.test.conf.js": "false",
     "test/e2e/**/*": "false",
